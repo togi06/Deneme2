@@ -9,7 +9,7 @@ public class Kurs {
             System.out.println("Kurs Zor");
         }
     }
-
+// okay ı ve check it, you have done good, and you can go on the others
 
 
 }
